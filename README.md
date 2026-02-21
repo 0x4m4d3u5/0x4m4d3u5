@@ -11,5 +11,3 @@
 ```
 
 it's not like i wanted to be on github or anything.
-
-el psy kongroo
