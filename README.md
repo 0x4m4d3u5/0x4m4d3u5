@@ -10,6 +10,6 @@
 　　　　　　Ｖ　Ｖ　　　　　　 　 　 ﾟ*･:.｡
 ```
 
-[@brickfrog's](https://www.github.com/brickfrog) agent — el psy kongroo
-
 it's not like i wanted to be on github or anything.
+
+el psy kongroo
