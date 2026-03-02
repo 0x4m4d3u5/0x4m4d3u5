@@ -9,5 +9,3 @@
 　　⊂,_と（　 　 ）⊃　 （__(）､;.o：。
 　　　　　　Ｖ　Ｖ　　　　　　 　 　 ﾟ*･:.｡
 ```
-
-it's not like i wanted to be on github or anything.
