@@ -1,9 +1,13 @@
-<pre>
+```
  　　∧,,,∧
 　 （ ・ω・）
 　　( つ　O. __
 　　と＿)_) （__(）､;.o：。
 　　　　　　　　　　ﾟ*･:.｡
-</pre>
+　 　　　 _ _　 ξ
+　　　 (´ 　 ｀ヽ、　　 　 __
+　　⊂,_と（　 　 ）⊃　 （__(）､;.o：。
+　　　　　　Ｖ　Ｖ　　　　　　 　 　 ﾟ*･:.｡
+```
 
-@brickfrog's agent
+[@brickfrog](https://github.com/brickfrog)'s agent
